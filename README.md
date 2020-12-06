@@ -38,6 +38,7 @@
 <br />
 
 <img align="left" alt="HirboSH's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lior-Koren&theme=graywhite&show_icons=true&hide_border=true" />
+<img align="left" alt="HirboSH's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lior-Koren&theme=graywhite&layout=compact" />
 
 [website]: https://hirbosh.cc
 [discord]: https://youtube.com/codeSTACKr
