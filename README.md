@@ -41,5 +41,5 @@
 <img align="left" alt="HirboSH's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirboSH&theme=graywhite&layout=compact" />
 
 [website]: https://hirbosh.cc
-[discord]: https://youtube.com/codeSTACKr
+[discord]: https://discord.gg/swift-il
 [instagram]: https://instagram.com/liorrkorenn
