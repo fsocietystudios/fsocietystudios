@@ -2,12 +2,12 @@
     <hr>
     <img src="assets/header.png">
     <hr>
-    <h2 style="text-align: center">👋 Welcome to my GitHub profile👋 <h2>
+    <h2 align="center">👋 Welcome to my GitHub profile👋 <h2>
     <hr>
 </div>
 
 <div class="aboutMe">
-    <h3 style="text-align: center">ℹ️ A litte about me ℹ️</h3>
+    <h3 align="center">ℹ️ A litte about me ℹ️</h3>
     <br>
     <ul>
         <li>ℹ️ Nice to meet you, <b>my name is Lior.</b></li>
@@ -20,7 +20,7 @@
 </div>
 
 <div class="langsAndTools">
-    <h3 style="text-align: center">⚙️ P.languages & tools I use ⚙️</h3>
+    <h3 align="center">⚙️ P.languages & tools I use ⚙️</h3>
     <br>
     <ul>
         <li><b>⚙️ Website development -></b> [ Javascript, Typescript, PHP ]</li>
@@ -38,7 +38,7 @@
 </div>
 
 <div class="githubStats">
-    <h3 style="text-align: center">📈 My GitHub stats 📈</h3>
+    <h3 align="center">📈 My GitHub stats 📈</h3>
     <br>
     <p align="center">
         <img alt="HirboSH's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HirboSH&theme=dark&show_icons=true&hide_border=true" />
