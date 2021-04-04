@@ -24,8 +24,8 @@ const Me = {
         linuxPenetrationTesting: "Kali Linux (v2021.1)"
     },
     contactMe: {
-        website: "https://hirbosh.io/",
-        discord: "HIRBOSHHH;🎃#8888",
+        website: "https://hirbosh.me/ (Soon)",
+        discordServer: "Soon",
         instagram: "https://www.instagram.com/liorrkorenn/",
         email: "hirboshcsgo@gmail.com"
     }
