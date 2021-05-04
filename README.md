@@ -16,7 +16,7 @@ const Me = {
             gta5: "FiveM (Lua)",
             rust: "uMod (C#)"
         },
-        gameHacking: "Cheat Engine (Internal, C++)",
+        gameHacking: ["Cheat Engine", "Internal (C++)", "External (C#)"],
         graphics: "Adobe Photoshop",
         video: "Adobe Premire Pro",
         IDE: ["Visual Studio", "Visual Studio Code"],
