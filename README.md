@@ -2,7 +2,7 @@
 const Me = {
     aboutMe: {
         name: "Lior",
-        age: "15 (16 next month, 29.5)",
+        age: "16",
         country: "Israel",
         gender: "male",
         hobbies: ["Program", "Exercise", "Music"],
