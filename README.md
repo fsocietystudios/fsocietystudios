@@ -9,8 +9,8 @@ I've been learning to code for 4 years. Kicked off with HTML5 & CSS3, then moved
 * 🌍  I'm based in Israel
 * 🖥️  See my portfolio at [My website \[Soon\]](http://liorkoren.me)
 * ✉️  You can contact me at [korenlior99@gmail.com](mailto:korenlior99@gmail.com)
-* 🚀  I'm currently working on [The Pixel Network \[Soon\]](http://pixelnetwork.com)
-* 🧠  I'm learning React, Web 3.0 principles
+* 🚀  I'm currently working on [FSOCIETY Studios \[Soon\]](http://fsocietystudios.com)
+* 🧠  I'm currently learning C & C++ Multithreading.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  At my free time I like to play CS:GO, and my guitar.
 
