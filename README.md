@@ -19,6 +19,7 @@ src="https://img.shields.io/twitter/follow/hirboshcsgo?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/HirboSH" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HirboSH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/hirboshon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/hirboshon?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+![](https://komarev.com/ghpvc/?username=HirboSH&style=for-the-badge)
 ### Skills
 
 <p align="left">
