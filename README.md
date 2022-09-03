@@ -7,7 +7,7 @@ Self-Taught Programmer
 I've been learning to code for 4 years. Kicked off with HTML5 & CSS3, then moved on to JavaScript, C#, PHP, Lua, C++, and Python. Mainly developing websites, Discord bots, game servers and software.
 
 * 🌍  I'm based in Israel
-* 🖥️  See my portfolio at [My website \[Soon\]](http://liorkoren.me)
+* 🖥️  See my portfolio at [My website](https://fsocietystudios.com/)
 * ✉️  You can contact me at [korenlior99@gmail.com](mailto:korenlior99@gmail.com)
 * 🚀  I'm currently working on [FSOCIETY Studios \[Soon\]](http://fsocietystudios.com)
 * 🧠  I'm currently learning C & C++ Multithreading.
