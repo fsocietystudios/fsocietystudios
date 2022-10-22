@@ -12,7 +12,7 @@ I've been learning to code for 4 years. Kicked off with HTML5 & CSS3, then moved
 * 🚀  I'm currently working on [Project Baby \[Soon\]](http://fsocietystudios.com)
 * 🧠  I'm currently learning C & C++ Multithreading.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  At my free time I like to play CS:GO, and my guitar.
+* ⚡  At my free time I like to play CS:GO, and my guitars.
 
 <a href="https://www.twitter.com/hirboshcsgo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hirboshcsgo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
