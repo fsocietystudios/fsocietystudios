@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./bookmark.png" />
+  <img src="./bookmark_new.png" />
 </p>
